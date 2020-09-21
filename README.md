@@ -1,0 +1,2 @@
+# ai-
+just self-learning
